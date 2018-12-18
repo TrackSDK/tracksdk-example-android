@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tracksdk/tracksdk.iml" filepath="$PROJECT_DIR$/tracksdk/tracksdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tracksdk-example.iml" filepath="$PROJECT_DIR$/tracksdk-example.iml" />
+    </modules>
+  </component>
+</project>
