@@ -1,1 +1,1 @@
-include ':app', ':tracksdk'
+include ':app'
